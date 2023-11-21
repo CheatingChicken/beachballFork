@@ -1510,3 +1510,4 @@ BeachBall.StartProgram = function () {
     }
     BeachBall.StartLoop();
 };
+BeachBall.StartProgram()
